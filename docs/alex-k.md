@@ -1,3 +1,3 @@
 **Alex**
-*LA
-*sushi
+* LA
+* sushi
